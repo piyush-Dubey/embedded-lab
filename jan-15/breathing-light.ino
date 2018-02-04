@@ -2,8 +2,9 @@ const int LED = 9; // the pin for the LED
 int i = 0;
 // We'll use this to count up and down
 void setup() {
-  pinMode(LED, OUTPUT); // tell Arduino LED is an output
+  pinMode(LED, OUTPUT); // set pin 9 as LED output
 }
+
 void loop(){
   for (i = 0; i < 255; i++) { // loop from 0 to 254 (fade in)
     analogWrite(LED, i);
@@ -19,4 +20,3 @@ void loop(){
       // Wait 10ms
     }
 }
-
