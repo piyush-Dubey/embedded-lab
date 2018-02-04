@@ -25,7 +25,7 @@ void loop()
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
-  // Reads the echoPin, returns the sound wave travel time in microseconds
+  // Reads the echoPin, returns the sound wave travel time in micro seconds
   duration = pulseIn(echoPin, HIGH);
   float speedSound = 0.034; // In cm per microseconds
   // Calculating the distance

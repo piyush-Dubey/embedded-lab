@@ -7,14 +7,13 @@ void setup()
   // set cursor position to start of first line on the LCD
   lcd.setCursor(0,0);
   //text to print
-  lcd.print(" 16x2 LCD");
+  lcd.print(" Check 123");
   // set cusor position to start of next line
   lcd.setCursor(0,1);
-  lcd.print(" DISPLAY");
+  lcd.print(" LCD Working");
 }
 
 void loop()
 {
   
 }
-
