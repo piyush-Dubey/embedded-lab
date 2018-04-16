@@ -39,3 +39,4 @@ Ritodhwaj Sen - 15IE10024
 The demonstration videos have been uploaded on the following link: [Google Photos](https://photos.app.goo.gl/aauEO0JM6C5EHaC42)
 
 ### Pictures
+![alt text](capstone-project/Screenshot.png " A screenshot of Serial Monitor showing the values of distance of an object from the 2  Ultrasonic sensors and the values of jerk in X, Y, Z direction and the net jerk.")
