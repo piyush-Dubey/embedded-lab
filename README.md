@@ -37,3 +37,5 @@ Ritodhwaj Sen - 15IE10024
 
 ### Demonstration videos
 The demonstration videos have been uploaded on the following link: [Google Photos](https://photos.app.goo.gl/aauEO0JM6C5EHaC42)
+
+### Pictures
