@@ -1,12 +1,12 @@
-# Embedded lab
+# Embedded lab Group-1
 Embedded lab assignments and Capstone project - IIT Kharagpur Spring 2018
-## Group-1
-Piyush Dubey
 
-Ritodhwaj Sen
+Piyush Dubey - 15IE10018
 
-### Safety Assistant (Safekeep)
-#### Components with specifications
+Ritodhwaj Sen - 15IE10024
+
+## Safety Assistant (Safekeep)
+### Components with specifications
 | Component | Quantity | Specification |
 | --------- | -------- | ------------- |
 | Arduino Uno R3 | 1 | ATmega328P |
@@ -17,7 +17,7 @@ Ritodhwaj Sen
 | Battery | 1 | 9V |
 | LED | 2 | - |
 
-#### Hardware connections
+### Hardware connections
 | **Component pin** | **Arduino pin** |
 | ----------------- | --------------- |
 | Trigger pin of Ultrasonic sensor 1 | D9 |
@@ -35,5 +35,5 @@ Ritodhwaj Sen
 | Positive pin of LED 2 | D13 |
 | Negative pin of LEDs | GND |
 
-#### Demonstration videos
+### Demonstration videos
 The demonstration videos have been uploaded on the following link: [Google Photos](https://photos.app.goo.gl/aauEO0JM6C5EHaC42)
